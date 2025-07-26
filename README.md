@@ -7,7 +7,7 @@ INTERN ID:CT06DH521
 
 DOMAIN:FULL STACK WEB DEVELOPMENT
 
-DURATION:4 WEEKS
+DURATION:6 WEEKS
 
 ### 📌 **Task 2 - Full Stack Internship @ CodTech**
 
